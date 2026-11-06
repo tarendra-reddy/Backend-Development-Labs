@@ -1,0 +1,22 @@
+{
+  "name": "backend-development-labs",
+  "version": "1.0.0",
+  "description": "Backend Development Fundamentals Labs - Aurora Deemed University",
+  "scripts": {
+    "start": "npm --prefix lab-03 start",
+    "lab-01": "npm --prefix lab-01 start",
+    "lab-02": "npm --prefix lab-02 start",
+    "lab-03": "npm --prefix lab-03 start",
+    "lab1": "npm --prefix lab-01 start",
+    "lab2": "npm --prefix lab-02 start",
+    "lab3": "npm --prefix lab-03 start"
+  },
+  "keywords": [
+    "backend-development",
+    "express",
+    "sqlite",
+    "rest-api"
+  ],
+  "author": "Tarendra Reddy",
+  "license": "ISC"
+}
